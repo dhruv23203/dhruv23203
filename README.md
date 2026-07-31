@@ -1,129 +1,129 @@
+<!--
+  Dhruv Malhan — GitHub Profile README
+  Repository name must be exactly: dhruv23203
+-->
+
 <div align="center">
 
-# Hi there, I'm Dhruv Malhan 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Dhruv%20Malhan&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Backend%20Developer&descAlignY=58&descSize=18" alt="Dhruv Malhan profile banner"/>
 
 <a href="https://github.com/dhruv23203">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=700&lines=AI+%26+Full-Stack+Developer;Aspiring+Software+Development+Engineer;Building+Intelligent+and+Scalable+Applications;CS+%26+Applied+Mathematics+%40+IIIT+Delhi" alt="Typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=CS+%26+Applied+Mathematics+%40+IIIT+Delhi;Building+AI-powered+full-stack+products;Interested+in+SDE%2C+Backend+and+AI+Engineering;Turning+ideas+into+reliable+software" alt="Animated introduction"/>
 </a>
 
-<br>
-
-<a href="https://github.com/dhruv23203">
-  <img src="https://img.shields.io/github/followers/dhruv23203?label=Followers&style=for-the-badge&logo=github">
-</a>
+<br/>
 
 <a href="https://github.com/dhruv23203?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Projects-2F81F7?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Explore_Projects-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=dhruv23203&label=Profile%20Views&style=for-the-badge&color=2F81F7" alt="Profile views">
+<a href="https://github.com/dhruv23203?tab=followers">
+  <img src="https://img.shields.io/github/followers/dhruv23203?style=for-the-badge&logo=github&label=FOLLOWERS&color=21262D" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/dhruv23203?tab=stars">
+  <img src="https://img.shields.io/github/stars/dhruv23203?style=for-the-badge&logo=github&label=STARS&color=21262D" alt="GitHub stars"/>
+</a>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-```python
 class DhruvMalhan:
-    def __init__(self):
-        self.education = "B.Tech CS & Applied Mathematics @ IIIT Delhi"
-        self.roles = ["Software Developer", "AI Engineer", "Backend Developer"]
-        self.languages = ["C++", "Python", "Java", "C", "TypeScript", "SQL"]
-        self.current_focus = ["DSA", "System Design", "AI Applications"]
-        self.goal = "Build intelligent products that solve real problems"
+    education = "B.Tech — CS & Applied Mathematics, IIIT Delhi"
+    interests = ["Software Engineering", "AI", "Backend Systems"]
+    languages = ["C++", "Python", "Java", "TypeScript", "SQL"]
+    currently_learning = ["Advanced DSA", "System Design", "AI Agents"]
 
-    def say_hello(self):
-        return "Thanks for visiting my GitHub profile! 🚀"
-```
+    def mission(self):
+        return "Build intelligent products that solve real problems 🚀"
 
-* 🎓 Pursuing **B.Tech in Computer Science and Applied Mathematics** at **IIIT Delhi**
-* 🤖 Building applications involving **AI agents, machine learning and intelligent automation**
-* 💻 Interested in **Software Engineering, Backend Development and System Design**
-* 🧠 Strengthening my knowledge of **DSA, operating systems, DBMS and computer networks**
-* 🚀 Open to **Software Development and AI Engineering opportunities**
+🎓 Studying Computer Science and Applied Mathematics at IIIT Delhi
 
----
+🤖 Building applications involving AI agents, intelligent automation and full-stack systems
 
-## 🛠️ Technology Stack
+🧩 Interested in backend engineering, scalable architecture and product development
+
+🔬 Worked on multilingual NLP pipelines and an AI lecture-speech analysis system
+
+🚀 Open to Software Development and AI Engineering opportunities
+
+⚡ Engineering Snapshot
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,c,ts,js&theme=dark" alt="Programming languages">
-
-### Frameworks and Development
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,flask,nodejs,html,css&theme=dark" alt="Frameworks">
-
-### Databases and Tools
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,git,github,linux,vscode&theme=dark" alt="Databases and development tools">
+<img src="https://img.shields.io/badge/Primary_Focus-Backend_%26_AI-1F6FEB?style=flat-square" alt="Primary focus"/>
+<img src="https://img.shields.io/badge/Research-MIDAS_Lab-8957E5?style=flat-square" alt="MIDAS Lab"/>
+<img src="https://img.shields.io/badge/Data_Pipeline-15%2C000%2B_Video_Hours-238636?style=flat-square" alt="15000 plus video hours"/>
+<img src="https://img.shields.io/badge/Current_Goal-Production--Ready_Systems-D29922?style=flat-square" alt="Current goal"/>
 
 </div>
 
----
+🛠️ Technology Stack
 
-## 🚀 Featured Projects
+<div align="center">
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,c,ts,js,sql&theme=dark&perline=7" alt="Programming languages"/>
+
+Frameworks and Backend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,flask,nodejs&theme=dark&perline=5" alt="Frameworks and backend technologies"/>
+
+Databases and Developer Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,linux,docker,vscode&theme=dark&perline=8" alt="Databases and developer tools"/>
+
+</div>
+
+🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 EduAgent
+📚 EduAgent
 
-**AI-Powered Study Platform**
+AI-Powered Study Platform
 
-An intelligent learning platform that creates personalised study plans, adaptive quizzes and revision workflows.
+A personalised learning platform combining AI agents, adaptive quizzes, weakness tracking and intelligent revision workflows.
 
-**Key features**
+Highlights
 
-* Multi-agent AI architecture
-* Personalised study-plan generation
-* Adaptive quizzes
-* Weakness and mistake tracking
-* Vector memory
-* Rewards, badges and streaks
-* Academic and motivation chatbots
+Multi-agent study and quiz generation
 
-**Technology**
+Vector memory and mistake tracking
 
-`FastAPI` `Next.js` `Python` `SQLAlchemy` `AI Agents`
+Gamified streaks, rewards and revision
 
-<br>
+Stack: FastAPI Next.js Python SQLAlchemy
 
 <a href="https://github.com/dhruv23203/EduAgent-AI-Powered-Study-Platform">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View EduAgent repository"/>
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 📊 HabitFlow
+📊 HabitFlow
 
-**Habit Analytics and Productivity Platform**
+Habit Analytics & Productivity Platform
 
-A full-stack productivity application for tracking habits, analysing progress and maintaining consistency.
+A full-stack productivity system for tracking habits, analysing consistency and helping users recover from broken streaks.
 
-**Key features**
+Highlights
 
-* Habit and streak tracking
-* Analytics dashboard
-* Productivity insights
-* Pomodoro timer
-* Gamified rewards
-* AI-powered habit recovery
+Habit analytics and momentum insights
 
-**Technology**
+Pomodoro and productivity workflows
 
-`Next.js` `TypeScript` `React` `Prisma` `SQLite`
+AI-powered habit-recovery assistant
 
-<br>
+Stack: Next.js TypeScript Prisma SQLite
 
 <a href="https://github.com/dhruv23203/HabitFlow--Habit-Analytics-Productivity-Platform">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View HabitFlow repository"/>
 </a>
 
 </td>
@@ -132,58 +132,47 @@ A full-stack productivity application for tracking habits, analysing progress an
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Lecture Speech Analysis
+🎙️ Lecture Speech Analysis
 
-**AI Communication Assessment System**
+AI Communication Assessment System
 
-An AI system that evaluates verbal communication skills using lecture videos and audio recordings.
+An AI system that transcribes lecture audio, extracts linguistic features and generates personalised communication feedback.
 
-**Key features**
+Highlights
 
-* Whisper-based transcription
-* Speech and linguistic analysis
-* More than 20 extracted features
-* Machine-learning-based scoring
-* Personalised communication feedback
-* Interactive Flask interface
+Whisper-based speech transcription
 
-**Technology**
+20+ speech and linguistic features
 
-`Python` `Whisper` `Machine Learning` `Flask`
+ML-based scoring and feedback
 
-<br>
+Stack: Python Whisper Machine Learning Flask
 
 <a href="https://github.com/dhruv23203/Automated-Lecture-Speech-Analysis-System">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View speech analysis repository"/>
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🐚 UNIX Shell Emulator
+🐚 UNIX Shell Emulator
 
-**Custom Linux Shell**
+Custom Linux Shell
 
-A UNIX shell implementation demonstrating operating-system concepts and low-level process management.
+A UNIX shell implementation demonstrating process management, signals, pipes, redirection and core operating-system concepts.
 
-**Key features**
+Highlights
 
-* Command execution
-* Pipes and redirection
-* Signal handling
-* Command history
-* Process creation and management
-* Linux system calls
+Commands, pipes and redirection
 
-**Technology**
+Signal and process management
 
-`C` `Linux` `System Calls` `Operating Systems`
+Command history and Linux system calls
 
-<br>
+Stack: C Linux System Calls Operating Systems
 
 <a href="https://github.com/dhruv23203/UNIX-Shell-Emulator">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View UNIX Shell repository"/>
 </a>
 
 </td>
@@ -193,131 +182,85 @@ A UNIX shell implementation demonstrating operating-system concepts and low-leve
 <div align="center">
 
 <a href="https://github.com/dhruv23203?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Repositories-2F81F7?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Explore_All_Repositories-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
 </a>
 
 </div>
 
----
+🔬 Research & Development
 
-## 📊 GitHub Analytics
+IIIT Delhi — MIDAS Lab
 
-<div align="center">
+Built a multilingual web-scraping and NLP data pipeline for transcripts and subtitles.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dhruv23203&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    media="(prefers-color-scheme: dark)"
-  >
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dhruv23203&show_icons=true&theme=default&hide_border=true&rank_icon=github"
-    media="(prefers-color-scheme: light)"
-  >
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dhruv23203&show_icons=true&hide_border=true&rank_icon=github" alt="Dhruv's GitHub statistics">
-</picture>
+Worked with a video corpus representing 15,000+ hours of content.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv23203&layout=compact&langs_count=8&theme=github_dark&hide_border=true&size_weight=0.5&count_weight=0.5"
-    media="(prefers-color-scheme: dark)"
-  >
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv23203&layout=compact&langs_count=8&theme=default&hide_border=true&size_weight=0.5&count_weight=0.5"
-    media="(prefers-color-scheme: light)"
-  >
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv23203&layout=compact&langs_count=8&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Most-used languages">
-</picture>
+Developed an AI lecture-speech analysis system using Whisper, linguistic feature extraction and machine-learning models.
 
-</div>
-
-> The language card represents the languages present in my public repositories and does not indicate my complete proficiency level.
-
----
+Created a user-facing interface for communication scoring and personalised feedback.
 
 <details>
 <summary><b>🧠 What I am currently learning</b></summary>
 
-<br>
+<br/>
 
-* Advanced data structures and algorithms
-* Dynamic programming and graph algorithms
-* Low-level and high-level system design
-* Scalable backend architecture
-* Database optimisation and caching
-* AI-agent orchestration
-* Retrieval and vector-memory systems
-* Production-ready full-stack development
+Advanced data structures and dynamic programming
 
-</details>
+Low-level and high-level system design
 
-<details>
-<summary><b>🎯 My areas of interest</b></summary>
+Scalable backend architecture
 
-<br>
+Database indexing, caching and optimisation
 
-| Area                    | Interests                                               |
-| ----------------------- | ------------------------------------------------------- |
-| Software Engineering    | Clean code, scalable architecture and design patterns   |
-| Artificial Intelligence | AI agents, NLP and intelligent applications             |
-| Backend Development     | APIs, authentication, databases and distributed systems |
-| Computer Science        | DSA, OS, DBMS, networks and system design               |
-| Product Development     | Building practical end-to-end applications              |
+AI-agent orchestration and retrieval systems
+
+Production deployment and observability
 
 </details>
 
 <details>
-<summary><b>🤝 Collaboration</b></summary>
+<summary><b>🤝 Areas where I would love to collaborate</b></summary>
 
-<br>
+<br/>
 
-I am interested in collaborating on:
+AI-powered developer and education tools
 
-* AI-powered applications
-* Full-stack development projects
-* Backend and API systems
-* Developer productivity tools
-* Open-source software
-* Machine-learning applications
+Backend systems and REST APIs
+
+Full-stack products with meaningful user impact
+
+NLP and applied machine-learning projects
+
+Open-source engineering tools
 
 </details>
 
----
-
-## 🐍 Contribution Activity
+🐍 Contribution Activity
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/dhruv23203/dhruv23203/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/dhruv23203/dhruv23203/output/github-contribution-grid-snake.svg"
-  >
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/dhruv23203/dhruv23203/output/github-contribution-grid-snake.svg"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruv23203/dhruv23203/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruv23203/dhruv23203/output/github-contribution-grid-snake.svg"/>
+  <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dhruv23203/dhruv23203/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
----
-
 <div align="center">
 
-### 💡 Code. Learn. Build. Improve. Repeat.
+💡 Code. Learn. Build. Improve. Repeat.
 
-Thank you for visiting my profile.
+<sub>Thanks for visiting — explore a project and leave a ⭐ if you find it useful.</sub>
+
+<br/><br/>
 
 <a href="https://github.com/dhruv23203">
-  <img src="https://img.shields.io/badge/Follow_Me_on_GitHub-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-⭐ Consider starring a repository that you find useful.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer" alt="Footer wave"/>
 
 </div>
